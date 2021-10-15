@@ -226,3 +226,80 @@ header {
   font-weight: 400;
   color: #727272;
 }
+
+.explore{
+  width: 80%;
+  height: 625px;
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding: 100px 0;
+  display: flex;
+  
+}
+
+.explore-main-img {
+  width: 532px;
+  height: 424px;
+  background-color: #eceef1;
+  margin-right: 54px;
+}
+
+.explore-main-content { 
+
+}
+
+.explore-main-title {
+  font-family: Raleway;
+  font-size: 35px;
+  line-height: 50px;
+  font-weight: 500;
+  color: #323232;
+  
+}
+
+.explore-blue-line {
+  width: 68px;
+  height: 1px;
+  background-color: #0199e6;
+  margin: 26px 0 36px 0;
+}
+
+.explore-main-text {
+  font-family: 'Source Sans Pro';
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #727272;
+  margin-bottom: 40px;
+}
+
+.explore-main-block{
+display: flex;
+}
+
+.explore-img {
+  width: 32px;
+  height: 33px;
+  background-color: #0199e6;
+  border-radius: 4px;
+  margin:5px 19px 0 0;
+ 
+  
+}
+
+.explore-title {
+  font-family: Raleway;
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 700;
+  color: #323232;
+}
+
+.explore-text {
+  font-family: 'Source Sans Pro';
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #727272;
+  padding-bottom: 48px;
+}

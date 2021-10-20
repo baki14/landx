@@ -369,3 +369,38 @@ background-color: #f7f8fa;;
   color: #727272;
   padding-bottom: 48px;
 }
+
+.video-block {
+  width: 100%;
+  height: 974px;
+  background-color: #f7f8fa;
+  display: flex;
+  flex-direction: column 
+  justify-content: center;
+	align-item: center;
+
+}
+
+.video-main-title {
+
+}
+
+.video-blue-line {
+
+}
+
+.video-main-text {
+
+}
+
+.video {
+
+}
+
+.video-futer {
+
+}
+
+.logo-video {
+
+}

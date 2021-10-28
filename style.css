@@ -375,7 +375,7 @@ header {
 .video-block {
   width: 100%;
   height: 974px;
-  background-color: #f7f8fa;
+  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -486,4 +486,253 @@ header {
   font-weight: 700;
   color: #ffffff;
   margin-left: 3px;
+}
+
+.price {
+  width: 100%;
+  height: 851px;
+  background-color: #f7f8fa;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.price-main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.price-main-title {
+  font-family: Raleway;
+  font-size: 35px;
+  line-height: 65px;
+  margin-top: 78px;
+  color: #323232;
+}
+
+.price-blue-line {
+  width: 68px;
+  height: 1px;
+  background-color: #0199e6;
+  margin: 17px 18px;
+}
+
+.price-main-text {
+  font-family: "Source Sans Pro";
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #727272;
+  margin-bottom: 78px;
+}
+
+.price-block {
+  display: flex;
+  justify-content: center;
+}
+
+.price-block1 {
+  width: 360px;
+  height: 476px;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  margin-right: 32px;
+}
+
+.price-block-headr {
+  width: auto;
+  height: 99px;
+  background-color: #323232;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.price-header-titel {
+  font-family: Raleway;
+  font-size: 24px;
+  color: #ffffff;
+  margin: 24px 0 14px 0;
+}
+
+.price-header-text {
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+
+.blue-price-text {
+  font-weight: 700;
+  color: #0199e6;
+}
+.price-list {
+  display: flex;
+}
+
+.price-name {
+  display: flex;
+}
+
+.price-name-tab {
+  list-style-type: none;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 400;
+  color: #323232;
+  margin-left: 30px;
+}
+
+.price-sum {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.price-sum-tab {
+  list-style-type: none;
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  line-height: 50px;
+  font-weight: 400;
+  color: #323232;
+  margin-left: 128px;
+}
+
+.price-block2 {
+  width: 360px;
+  height: 476px;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+  margin-right: 32px;
+}
+
+.price-block-headr2 {
+  width: auto;
+  height: 99px;
+  background-color: #0199e6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.price-block-button2 {
+  width: 96px;
+  height: 42px;
+  background-color: #0199e6;
+  border: 1px solid #727272;
+  border-radius: 5px;
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fffdfd;
+  margin: 15px 0 0 45px;
+}
+
+.price-block3 {
+  width: 360px;
+  height: 476px;
+  background-color: #ffffff;
+  border: 1px solid #e5e5e5;
+}
+
+.footer-price-block {
+  display: flex;
+}
+.total-price {
+  font-family: Raleway;
+  font-size: 18px;
+  line-height: 64px;
+  font-weight: 700;
+  margin-left: 30px;
+}
+
+.price-block-button {
+  width: 96px;
+  height: 42px;
+  background-color: #ffffff;
+  border: 1px solid #727272;
+  border-radius: 7px;
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #727272;
+  margin: 15px 0 0 45px;
+}
+
+.footer {
+}
+
+.qeution {
+  width: 100%;
+  height: 225px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quetion-text {
+  font-family: Raleway;
+  font-size: 24px;
+  line-height: 65px;
+  font-weight: 600;
+  color: #323232;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 20px;;
+}
+
+.quetion-link {
+  font-family: 'landx - font - icons';
+  font-size: 17.9px;
+  line-height: 29px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #008ed6;
+  font-family: Raleway;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  padding-bottom: 60px;
+}
+
+.aboutus {
+  height: 284px;
+  background-color: #f7f8fa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aboutus-main-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 77px;
+}
+
+.aboutus-main-text {
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #919191;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 23px 19px;
+}
+
+.aboutus-social-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 98px;
 }

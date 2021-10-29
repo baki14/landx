@@ -681,11 +681,11 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 20px;;
+  padding-top: 20px;
 }
 
 .quetion-link {
-  font-family: 'landx - font - icons';
+  font-family: "landx - font - icons";
   font-size: 17.9px;
   line-height: 29px;
   font-weight: 400;
@@ -732,4 +732,131 @@ header {
   flex-direction: column;
   align-items: center;
   padding-bottom: 98px;
+}
+
+.TrustedbyThousands-block {
+  height: 799px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 111px;
+}
+
+.Trusted-titel-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.TrustedbyThousands-titel {
+  font-family: Raleway;
+  font-size: 35px;
+  line-height: 65px;
+  font-weight: 500;
+  color: #323232;
+}
+
+.TrustedbyThousands-line {
+  width: 68px;
+  height: 1px;
+  background-color: #0199e6;
+  margin: 18px 17px;
+}
+
+.TrustedbyThousands-text {
+  font-family: "Source Sans Pro";
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #727272;
+}
+
+.TrustedbyThousands-logo {
+  display: flex;
+  align-items: center;
+  padding: 79px 71px;
+}
+
+.TrustedbyThousands-img {
+  padding-right: 40px;
+}
+
+.Trusted-main-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Trusted-block {
+  width: 361px;
+  height: 226px;
+  background-color: #f7f8fa;
+  box-shadow: 0px 2px 0px 0px #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  margin-left: 28px;
+}
+
+.Trusted-block-img {
+  position: absolute;
+  top: -15px;
+  z-index: 2;
+}
+
+.Trusted-block-text {
+  text-align: center;
+  font-family: "Source Sans Pro - It";
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #727272;
+  padding: 52px 37px 33px 36px;
+}
+
+.Trusted-block-triangle {
+  width: 30px;
+  height: 30px;
+  background-color: #f7f8fa;
+  box-shadow: 0px 2px 0px 0px #e5e5e5;
+  position: absolute;
+  bottom: -15px;
+  z-index: 3;
+  transform: rotate(45deg);
+}
+
+.Trusted-blue-text {
+  font-family: "Source Sans Pro";
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 700;
+  color: #0199e6;
+  text-align: center;
+}
+
+.trusted-footer-text {
+  font-family: "Source Sans Pro";
+  font-size: 13px;
+  line-height: 25px;
+  font-weight: 400;
+  color: #727272;
+  text-align: center;
+}
+
+.Trusted-footer {
+  display: flex;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.Truted-footer-text1 {
+  margin-left: 15px;
+}
+
+.Truted-footer-text2 {
+  margin-right: 275px;
+  margin-left: 280px;
 }
